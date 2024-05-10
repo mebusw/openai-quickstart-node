@@ -1,0 +1,361 @@
+{
+   "TechPro Ultrabook":{
+      "name":"TechPro Ultrabook",
+      "category":"Computers and Laptops",
+      "brand":"TechPro",
+      "model_number":"TP-UB100",
+      "warranty":"1 year",
+      "rating":4.5,
+      "features":[
+         "13.3-inch display",
+         "8GB RAM",
+         "256GB"
+      ],
+      "description":"A sleek and powerful ultrabook with a 13.3-inch display, 8GB RAM and 256GB of storage.",
+      "price":799.99
+   },
+   "BlueWave Gaming Laptop":{
+      "name":"BlueWave Gaming Laptop",
+      "category":"Computers and Laptops",
+      "brand":"BlueWave",
+      "model_number":"BW-GL100",
+      "warranty":"2 years",
+      "rating":4.7,
+      "features":[
+         "15.6-inch display",
+         "16GB RAM",
+         "512GB SSD"
+      ],
+      "description":"A powerful gaming laptop with a 15.6-inch display, 16GB RAM and 512GB SSD.",
+      "price":999.99
+   },
+   "PowerLite Convertible":{
+      "name":"PowerLite Convertible",
+      "category":"Computers and Laptops",
+      "brand":"PowerLite",
+      "model_number":"PL-CN100",
+      "warranty":"1 year",
+      "rating":4.2,
+      "features":[
+         "13.3-inch touch display",
+         "8GB RAM",
+         "256GB SSD"
+      ],
+      "description":"A versatile convertible laptop with a 13.3-inch touchscreen display, 8GB RAM and 256GB SSD.",
+      "price":899.99
+   },
+   "TechPro Desktop":{
+      "name":"TechPro Desktop",
+      "category":"Computers and Laptops",
+      "brand":"TechPro",
+      "model_number":"TP-DT100",
+      "warranty":"2 years",
+      "rating":4.9,
+      "features":[
+         "Intel i7 Processor",
+         "16GB RAM",
+         "1TB HDD"
+      ],
+      "description":"A powerful desktop PC with an Intel i7 Processor, 16GB RAM and 1TB HDD.",
+      "price":799.99
+   },
+   "BlueWave Chromebook":{
+      "name":"BlueWave Chromebook",
+      "category":"Computers and Laptops",
+      "brand":"BlueWave",
+      "model_number":"BW-CB100",
+      "warranty":"1 year",
+      "rating":4.3,
+      "features":[
+         "11.6-inch display",
+         "4GB RAM",
+         "64GB Storage"
+      ],
+      "description":"A lightweight Chromebook with an 11.6-inch display, 4GB RAM and 64GB of storage.",
+      "price":399.99
+   },
+   "Smartx ProPhone":{
+      "name":"Smartx ProPhone",
+      "category":"Smartphones and Accessories",
+      "brand":"Smartx",
+      "model_number":"SM-PP100",
+      "warranty":"2 years",
+      "rating":4.8,
+      "features":[
+         "6.5-inch OLED display",
+         "Triple Camera Array",
+         "256GB Storage"
+      ],
+      "description":"A flagship smartphone with a 6.5-inch OLED display, Triple Camera Array and 256GB of storage.",
+      "price":1299.99
+   },
+   "MobiTech PowerCase":{
+      "name":"MobiTech PowerCase",
+      "category":"Smartphones and Accessories",
+      "brand":"MobiTech",
+      "model_number":"MT-PC100",
+      "warranty":"1 year",
+      "rating":4.6,
+      "features":[
+         "10500mAh Battery",
+         "Wireless Charging",
+         "Qi Compatible"
+      ],
+      "description":"A powerful battery case with a 10500mAh battery, wireless charging and Qi compatibility.",
+      "price":79.99
+   },
+   "Smartx MiniPhone":{
+      "name":"Smartx MiniPhone",
+      "category":"Smartphones and Accessories",
+      "brand":"Smartx",
+      "model_number":"SM-MP100",
+      "warranty":"1 year",
+      "rating":4.2,
+      "features":[
+         "4.5-inch Display",
+         "2GB RAM",
+         "32GB Storage"
+      ],
+      "description":"A pocket-sized smartphone with a 4.5-inch display, 2GB RAM and 32GB of storage.",
+      "price":199.99
+   },
+   "Smartx EarBuds":{
+      "name":"Smartx EarBuds",
+      "category":"Smartphones and Accessories",
+      "brand":"Smartx",
+      "model_number":"SM-EB100",
+      "warranty":"1 year",
+      "rating":4.7,
+      "features":[
+         "Wireless Connectivity",
+         "Noise Cancelling Microphone"
+      ],
+      "description":"Wireless earbuds with Bluetooth connectivity and a noise cancelling microphone for crystal clear audio quality.",
+      "price":79.99
+   },
+   "CineView 4K TV":{
+      "name":"CineView 4K TV",
+      "category":"Televisions and Home Theater Systems",
+      "brand":"CineView",
+      "model_number":"CV-TV100",
+      "warranty":"2 years",
+      "rating":4.9,
+      "features":[
+         "55-inch Display",
+         "HDR 10 Support"
+      ],
+      "description":"A stunning 55-inch 4K TV with HDR 10 support for an immersive viewing experience.",
+      "price":699.99
+   },
+   "SoundMax Home Theater System":{
+      "name":"SoundMax Home Theater System",
+      "category":"Televisions and Home Theater Systems",
+      "brand":"SoundMax",
+      "model_number":"SM-HTS100",
+      "warranty":"2 years",
+      "rating":4.8,
+      "features":[
+         "Surround Sound Speakers",
+         "Bluetooth Connectivity",
+         "Compact Design"
+      ],
+      "description":"A powerful home theater system with surround sound speakers, Bluetooth connectivity and a compact design.",
+      "price":399.99
+   },
+   "CineView 8K TV":{
+      "name":"CineView 8K TV",
+      "category":"Televisions and Home Theater Systems",
+      "brand":"CineView",
+      "model_number":"CV-TV200",
+      "warranty":"2 years",
+      "rating":4.9,
+      "features":[
+         "75-inch Display",
+         "HDR 10 Support"
+      ],
+      "description":"A stunning 75-inch 8K TV with HDR 10 support for an immersive viewing experience.",
+      "price":1999.99
+   },
+   "SoundMax Soundbar":{
+      "name":"SoundMax Soundbar",
+      "category":"Televisions and Home Theater Systems",
+      "brand":"SoundMax",
+      "model_number":"SM-SB100",
+      "warranty":"1 year",
+      "rating":4.6,
+      "features":[
+         "60W Output",
+         "Bluetooth Connectivity"
+      ],
+      "description":"A powerful soundbar with 60W of output power and Bluetooth connectivity.",
+      "price":199.99
+   },
+   "CineView OLED TV":{
+      "name":"CineView OLED TV",
+      "category":"Televisions and Home Theater Systems",
+      "brand":"CineView",
+      "model_number":"CV-TV300",
+      "warranty":"2 years",
+      "rating":4.9,
+      "features":[
+         "55-inch Display",
+         "HDR 10 Support"
+      ],
+      "description":"A stunning 55-inch OLED TV with HDR 10 support for an immersive viewing experience.",
+      "price":1499.99
+   },
+   "GameSphere X":{
+      "name":"GameSphere X",
+      "category":"Gaming Consoles and Accessories",
+      "brand":"GameSphere",
+      "model_number":"GS-X100",
+      "warranty":"2 years",
+      "rating":4.8,
+      "features":[
+         "Bluetooth Connectivity",
+         "1080p Output"
+      ],
+      "description":"A powerful gaming console with Bluetooth connectivity and 1080p output.",
+      "price":499.99
+   },
+   "ProGamer Controller":{
+      "name":"ProGamer Controller",
+      "category":"Gaming Consoles and Accessories",
+      "brand":"ProGamer",
+      "model_number":"PG-CT100",
+      "warranty":"1 year",
+      "rating":4.7,
+      "features":[
+         "Wireless Connectivity",
+         "Analog Stick Control"
+      ],
+      "description":"A wireless controller with Bluetooth connectivity and analog stick control.",
+      "price":59.99
+   },
+   "GameSphere Y":{
+      "name":"GameSphere Y",
+      "category":"Gaming Consoles and Accessories",
+      "brand":"GameSphere",
+      "model_number":"GS-Y100",
+      "warranty":"2 years",
+      "rating":4.9,
+      "features":[
+         "Bluetooth Connectivity",
+         "4K Output"
+      ],
+      "description":"A powerful gaming console with Bluetooth connectivity and 4K output.",
+      "price":599.99
+   },
+   "ProGamer Racing WheelGame":{
+      "name":"ProGamer Racing WheelGameSphere VR Headset ",
+      "category":"Gaming Consoles and Accessories ",
+      "brand":"ProGamer ",
+      "model_number":"PG-RW100 ",
+      "warranty":"1 year ",
+      "rating":4.5,
+      "features":[
+         "Realistic Force Feedback",
+         "Wireless Connectivity"
+      ],
+      "description":"A realistic racing wheel with realistic force feedback and wireless connectivity.",
+      "price":129.99
+   },
+   "Sphere VR Headset":{
+      "name":"Sphere VR Headset",
+      "category":"Gaming Consoles and Accessories ",
+      "brand":"GameSphere ",
+      "model_number":"GS-V800",
+      "warranty":"1 year",
+      "rating":4.9,
+      "features":[
+         "VR classes",
+         "3A games remastered"
+      ],
+      "description":"A VR headset with lens where many great games could run smoothly",
+      "price":929.99
+   },
+   "WaveSound Bluetooth Speaker":{
+      "name":"WaveSound Bluetooth Speaker ",
+      "category":"Audio Equipment",
+      "brand":"WaveSound ",
+      "model_number":"WS-SP100 ",
+      "warranty":"2 years ",
+      "rating":4.9,
+      "features":[
+         "Bluetooth Connectivity",
+         "Portable Design"
+      ],
+      "description":"A portable Bluetooth speaker with excellent sound quality for music on the go.",
+      "price":49.99
+   },
+   "WaveSound Soundbar":{
+      "name":"WaveSound Soundbar ",
+      "category":"Audio Equipment ",
+      "brand":"WaveSound ",
+      "model_number":"WS-SB100 ",
+      "warranty":"1 year ",
+      "rating":4.6,
+      "features":[
+         "80W Output",
+         "Optical Input"
+      ],
+      "description":"A powerful soundbar with 80W of output power and an optical input for superior sound quality.",
+      "price":149.99
+   },
+   "AudioPhonic Turntable":{
+      "name":"AudioPhonic Turntable ",
+      "category":"Audio Equipment ",
+      "brand":"AudioPhonic ",
+      "model_number":"AP-TT100 ",
+      "warranty":"2 years ",
+      "rating":4.7,
+      "features":[
+         "Automatic Tonearm",
+         "33 & 45 RPM Playback"
+      ],
+      "description":"An automatic turntable with an adjustable tonearm for playing records at 33 & 45 RPM.",
+      "price":199.99
+   },
+   "FotoSnap DSIR Camera":{
+      "name":"FotoSnap DSIR Camera ",
+      "category":"Cameras and Camcorders ",
+      "brand":"FotoSnap ",
+      "model_number":"FS-DC100 ",
+      "warranty":"1 year ",
+      "rating":4.4,
+      "features":[
+         "24MP Sensor",
+         "Full HD Video"
+      ],
+      "description":"A digital SLR camera with a 24MP sensor for stunning photos and Full HD video recording.",
+      "price":499.99
+   },
+   "ActionCam 4K":{
+      "name":"ActionCam 4K ",
+      "category":"Cameras and Camcorders ",
+      "brand":"ActionCam ",
+      "model_number":"AC-CAM100 ",
+      "warranty":"1 year ",
+      "rating":4.6,
+      "features":[
+         "Waterproof Housing",
+         "WiFi Connectivity"
+      ],
+      "description":"A waterproof action camera with WiFi connectivity for recording adventures in 4K resolution.",
+      "price":249.99
+   },
+   "FotoSnap Mirrorless Camera":{
+      "name":"FotoSnap Mirrorless Camera ",
+      "category":"Cameras and Camcorders ",
+      "brand":"FotoSnap ",
+      "model_number":"FS-MC100 ",
+      "warranty":"2 years ",
+      "rating":4.8,
+      "features":[
+         "18MP Sensor",
+         "Full HD Video"
+      ],
+      "description":"A mirrorless camera with an 18MP sensor for high quality photos and Full HD video recording.",
+      "price":799.99
+   }
+}
